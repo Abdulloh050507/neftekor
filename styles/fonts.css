@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'IB';
+    src: url(../fonts/inter/Inter-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'IR';
+    src: url(../fonts/inter/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'RB';
+    src: url(../fonts/rubik/Rubik-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'IS';
+    src: url(../fonts/inter/Inter-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: 'RS';
+    src: url(../fonts/rubik/Rubik-SemiBold.ttf);
+}
